@@ -18,7 +18,7 @@ Welcome to the Task Management System! This Python program allows you to manage 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/task-management-system.git
+   git clone https://github.com/GunjanPasricha/Task-Management-system.git
    ```
 
 2. Navigate to the project directory:
